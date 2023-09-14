@@ -8,7 +8,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-RekamMedis/graphs/commit-activity)
 
-## Features Persediaan barang
+## Features Rekam Medis
 --> Administrator
 - Pemakai
 - POLI
