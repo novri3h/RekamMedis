@@ -4,7 +4,7 @@
 <div align="justify">Aplikasi Rekam Medis adalah perangkat lunak atau program komputer yang digunakan oleh fasilitas layanan kesehatan, seperti rumah sakit, klinik, atau dokter, untuk mengelola dan menyimpan catatan medis pasien secara elektronik. Tujuan utama dari aplikasi ini adalah untuk menggantikan penggunaan catatan medis tradisional yang biasanya tertulis tangan atau dicetak, dengan cara yang lebih efisien dan terstruktur.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-RekamMedis/graphs/commit-activity)
 
